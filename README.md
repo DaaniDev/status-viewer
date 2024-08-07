@@ -28,7 +28,7 @@ Add the following in your `settings.gradle` of `app` module:
 then add the following to your `build.gradle` file:
 ```
 dependencies {
-    implementation 'com.github.daanidev:statusviewer:1.0.2'
+     implementation("com.github.DaaniDev:status-viewer:1.0.2")
 }
 ```
 
