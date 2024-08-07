@@ -11,7 +11,10 @@ This library accept imagesList in the Int format like val list = listOf(R.drawab
 - Clickable images with customizable click actions.
 
 ## Demo
-[Screen_recording_20240807_225518.webm](https://github.com/user-attachments/assets/d572c64d-9f86-4562-9df4-6245a84fd14f)
+
+https://github.com/user-attachments/assets/12234a79-d3da-4978-9d69-bfab17ca97de
+
+
 
 ## Installation
 
