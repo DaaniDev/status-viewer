@@ -13,7 +13,6 @@ This library accept imagesList in the Int format like val list = listOf(R.drawab
 ## Demo
 [Screen_recording_20240807_225518.webm](https://github.com/user-attachments/assets/d572c64d-9f86-4562-9df4-6245a84fd14f)
 
-
 ## Installation
 
 Add the following in your `settings.gradle` of `app` module: 
