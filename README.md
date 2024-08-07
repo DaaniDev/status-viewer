@@ -10,6 +10,9 @@ This library accept imagesList in the Int format like val list = listOf(R.drawab
 - Configurable progress indicator placement (top or bottom).
 - Clickable images with customizable click actions.
 
+## Demo
+![](https://github.com/DaaniDev/status-viewer/blob/3ae8404021e040502fa5e2aab84e8b2e6e15b6ad/screen_recording/Screen_recording_20240807_230110.webm)
+
 ## Installation
 
 Add the following in your `settings.gradle` of `app` module: 
